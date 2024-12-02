@@ -1,6 +1,3 @@
-Here’s the expanded README in the format you're looking for:
-
-```markdown
 # Stock Movement Analysis Based on Social Media Sentiment
 
 ## Overview
