@@ -126,29 +126,3 @@ python predict_stock_movement.py
 
 ---
 
-## Future Improvements
-
-- **Integrating Multiple Data Sources**: Expand the project by collecting data from additional social media platforms like Twitter or Telegram.
-- **Improved Sentiment Analysis**: Explore more advanced sentiment analysis techniques using NLP models such as BERT for more accurate predictions.
-- **Real-time Data**: Modify the scraper to collect data in real time and update predictions continuously.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Key Points in the README:
-- **Clone the Repository**: Instructions for cloning the repo and navigating to the project directory.
-- **Setting Up the Virtual Environment**: Guide to creating and activating a virtual environment.
-- **Installing Dependencies**: Step to install all necessary libraries via the `requirements.txt` file.
-- **Reddit API Credentials**: Instructions to set up Reddit API credentials and use them in the code.
-- **Running the Code**: Step-by-step guide on running the individual scripts for data collection, preprocessing, model training, and prediction.
-- **File Descriptions**: A summary of what each Python script does in the project.
-- **Future Improvements**: Ideas for expanding and improving the project.
-- **License**: Information about the open-source license.
-
----
-
-This README should provide clear instructions to set up, run, and understand the project. Let me know if you need any more additions!
